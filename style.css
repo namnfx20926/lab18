@@ -1,0 +1,21 @@
+.bg-img1 {
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./BG-1.jpg);
+}
+.bg-img2 {
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./BG-2.jpg);
+}
+.bg-img3 {
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./BG-3.jpg);
+}
+.mb-to-footer {
+  margin-bottom: 20vh;
+}
